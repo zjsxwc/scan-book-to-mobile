@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         if (!dir.exists()) {
-            Toast.makeText(MainActivity.this, "安卓版本太高，没有读写文件权限啊，请去应用设置权限", Toast.LENGTH_LONG).show();
+            Toast.makeText(MainActivity.this, "安卓版本太高，没有读写文件权限啊，请去应用设置权限 ", Toast.LENGTH_LONG).show();
         }
 
     }
