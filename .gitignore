@@ -4,7 +4,8 @@
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
+!app/build/outputs/apk/debug/app-debug.apk
 /build
 /captures
 .externalNativeBuild
-!app/build/outputs/apk/debug/app-debug.apk
+
